@@ -3,7 +3,8 @@
 
 ## 快速启动
 
->cd blog-vue cnpm install
+>cd blog-vue 
+>cnpm install
 
 ## 技术
 
