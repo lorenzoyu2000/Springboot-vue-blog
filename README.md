@@ -10,4 +10,4 @@
 
 >springboot+shiro+jwt+mysql+redis+vue
 
-感谢[@MarkerHub](https://markerhub.com/)的教程
+感谢[@MarkerHub](https://github.com/MarkerHub/vueblog)的教程
